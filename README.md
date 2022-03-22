@@ -1,4 +1,4 @@
-# Project Dermstore.com
+# Dermstore.com Clone Frontend
 
 Dermstore is a web application to buy cosmetic products
 
